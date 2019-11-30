@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "name": "Phat",
+            "age": 25,
+            "companyList": ["fpt-tel", "vng"]
+        },
+        {
+            "name": "Ha",
+            "age": 25,
+            "companyList": ["net-company", "vng"]
+        }
+    ]
+}
